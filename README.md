@@ -1,4 +1,4 @@
-# Course from udemy - build one ecommerce Web site with Django and React :rocket:
+# Course from udemy repository to deploy - build one ecommerce Web site with Django and React :rocket:
 
 
 In this course, I build a completely customized eCommerce / shopping cart application from scratch using Django & REACT. 
